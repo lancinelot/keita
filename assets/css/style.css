@@ -6,7 +6,11 @@
 /**
  * copyright 2022 codewithsadee
  */
-
+@media (max-width: 600px) {
+  .button {
+    /* Adjust styles for mobile view */
+  }
+}
 
 /*-----------------------------------*\
   #CUSTOM PROPERTY
